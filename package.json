@@ -1,6 +1,6 @@
 {
   "name": "wow1_simple_calculator",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A simple calculator with TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
